@@ -87,3 +87,6 @@ Budget,2025,02,22,Bi-Weekly,Spending,Category01,720
 Transaction,2025,07,22,Once,Spending,Category06,66.56
 Transaction,2025,07,06,Once,Earning,Category06,49.04
 Budget,2025,03,06,Monthly,Spending,Category08,1480
+
+
+
